@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
 /*!
  * Bootstrap v2.1.1
  *
@@ -4216,7 +4218,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar-link:hover {
-  color: #f0ffff;
+  color: #fbc875;
 }
 
 .navbar .divider-vertical {
@@ -4400,7 +4402,7 @@ input[type="submit"].btn.btn-mini {
 
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
-  color: #f0ffff;
+  color: #fbc875;
   text-decoration: none;
   background-color: #367e34;
 }
@@ -4408,7 +4410,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
-  color: #f0ffff;
+  color: #8fbc8f;
   text-decoration: none;
   background-color: #2b6529;
   -webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, 0.125);
@@ -4514,7 +4516,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav li.dropdown.open > .dropdown-toggle,
 .navbar .nav li.dropdown.active > .dropdown-toggle,
 .navbar .nav li.dropdown.open.active > .dropdown-toggle {
-  color: #f0ffff;
+  color: #8fbc8f;
   background-color: #2b6529;
 }
 
@@ -4526,8 +4528,8 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav li.dropdown.open > .dropdown-toggle .caret,
 .navbar .nav li.dropdown.active > .dropdown-toggle .caret,
 .navbar .nav li.dropdown.open.active > .dropdown-toggle .caret {
-  border-top-color: #f0ffff;
-  border-bottom-color: #f0ffff;
+  border-top-color: #8fbc8f;
+  border-bottom-color: #8fbc8f;
 }
 
 .navbar .pull-right > li > .dropdown-menu,
